@@ -65,16 +65,16 @@
 //     }   
 // }
 
-// let not1 = Number(prompt("qual a sua nota"))
-// if (not1 < 4 ) {
-//     alert("reprovado")
-//     console.log("reprovado")
-// }
-// else if (not1 < 6) {
-//     alert("recuperação")
-//     console.log("recuperçã0")
-// }
-// else  {
-//     alert("aprovado")
-//     console.log("aprovado")
-// }
+let not1 = Number(prompt("qual a sua nota"))
+if (not1 < 4 ) {
+    alert("reprovado")
+    console.log("reprovado")
+}
+else if (not1 < 6) {
+    alert("recuperação")
+    console.log("recuperçã0")
+}
+else  {
+    alert("aprovado")
+    console.log("aprovado")
+}
